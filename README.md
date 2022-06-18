@@ -1,8 +1,7 @@
 # Unmixing-with-Optimal-Transport
 
 
-
-The goal of this project is to make an music transcription algorithm. The typical measures of fit used to
+The goal of this project is to make a music transcription algorithm. The typical measures of fit used to
 quantify the adequacy of the decomposition compare the data and template entries
 frequency-wise. Building on the harmonic nature of sound, the new measure is 
 invariant to shifts of energy to harmonically-related frequencies, as well as to small and local displacements of energy. Equipped
